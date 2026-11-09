@@ -1,0 +1,63 @@
+site_name: Matemática Discreta · Grupo B
+site_description: Material del Grupo B de Matemática Discreta (Grado en Ingeniería Informática, ESI, Universidad de Cádiz), curso 2026/27.
+site_author: Luis Lafuente Molinero
+site_url: https://llafuent.github.io/md2627/
+copyright: >
+  © 2026 Luis Lafuente Molinero · material propio bajo licencia
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es">CC BY-NC-SA 4.0</a> ·
+  <a href="https://llafuent.github.io/md2627/licencia/">fuentes y licencias</a>
+
+theme:
+  name: material
+  language: es
+  custom_dir: overrides
+  features:
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - content.action.view
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Modo oscuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
+
+plugins:
+  - search:
+      lang: es
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/katex.js
+  - https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js
+  - https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js
+
+extra_css:
+  - https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css
+
+nav:
+  - Inicio: index.md
+  - Unidad I · Lógica, conjuntos y conteo: unidad1.md
+  - Unidad II · Teoría de números: unidad2.md
+  - Boletines de problemas: boletines.md
+  - Vídeos: videos.md
+  - Erratas: erratas.md
+  - Fuentes y licencias: licencia.md
