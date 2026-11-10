@@ -9,3 +9,4 @@ Aritmética; ecuaciones diofánticas; congruencias.
 |---|---|---|
 | L10 · El primer elemento: buena ordenación, inducción, cociente y resto | 6/11 y 9/11 | [PDF](material/u2/notasGuiadasL10.pdf) |
 | L11 · Cuando el resto es 0: divisibilidad, máximo común divisor, Euclides y Bézout | 9/11 y 10/11 | [PDF](material/u2/notasGuiadasL11.pdf) |
+| L12 · Los ladrillos: primos, factorización única y mínimo común múltiplo | 10/11 y 16/11 | [PDF](material/u2/notasGuiadasL12.pdf) |
