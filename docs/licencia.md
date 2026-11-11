@@ -12,3 +12,10 @@ Partes del material se basan en estas fuentes, citadas en cada documento:
   adaptado con permiso del autor.
 - Eric Lehman, F. Thomson Leighton y Albert R. Meyer, *Mathematics for Computer Science*, MIT, 2018. Licencia
   [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/): ideas citadas en cada documento.
+
+## Cómo se hace este material
+
+Cada clase, su orden, sus ejemplos y sus problemas los diseño yo. Uso Claude, un asistente de IA de Anthropic, como
+ayudante: para preparar borradores, componer los documentos y comprobar con programas cada número y cada tabla. Nada
+se publica sin que yo lo haya revisado y aprobado; si encuentras un error, es mío, y lo corrijo en la página de
+[Erratas](erratas.md).
