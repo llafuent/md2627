@@ -19,3 +19,4 @@ Corregidas: cada errata de la pizarra está arreglada en el PDF.
 |---|---|---|
 | 6/11 | L10 · buena ordenación, inducción, cociente y resto | [PDF](material/u2/pizarra20261106.pdf) |
 | 9/11 | L10 (unicidad, 2027) y L11 · divisibilidad, máximo común divisor | [PDF](material/u2/pizarra20261109.pdf) |
+| 10/11 | L11 (Euclides, Bézout) y L12 · primos | [PDF](material/u2/pizarra20261110.pdf) |
