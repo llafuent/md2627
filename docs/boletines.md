@@ -8,7 +8,6 @@ básicos, práctica, examen y retos) y llevan su dificultad; la primera página 
 | Boletín | Versión | PDF |
 |---|---|---|
 | 1 · Lógica proposicional: conectivos y tablas de verdad, tautologías, equivalencias e implicaciones lógicas, razonamientos | 12/11/2026 | [PDF](material/u1/boletinProposicional.pdf) |
+| 2 · Lógica de predicados: predicados y cuantificadores, negación, leyes de los cuantificadores, razonamientos con predicados | 13/11/2026 | [PDF](material/u1/boletinPredicados.pdf) |
 | 3 · Conjuntos: inclusión, partes, operaciones y sus leyes, particiones y producto cartesiano | 12/11/2026 | [PDF](material/u1/boletinConjuntos.pdf) |
 | 4 · Conteo: principios de adición y de multiplicación, inclusión–exclusión y cotas | 12/11/2026 | [PDF](material/u1/boletinConteo.pdf) |
-
-El boletín 2 (lógica de predicados) está en preparación.
