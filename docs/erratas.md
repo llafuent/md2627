@@ -5,37 +5,53 @@ error está en vuestros apuntes de clase o en un archivo que descargasteis, aqu�
 corrigen y se sustituyen en este sitio; los vídeos no se vuelven a subir: la corrección va en su descripción, con el
 minuto, y aquí.
 
+Aquí está todo, también lo pequeño: la referencia son la pizarra y los PDF, y quien estudie con un vídeo puede copiar
+una frase dicha mal. Por eso hay dos listas: **Errores**, lo que hay que corregir en los apuntes, y **Lapsus**, frases
+dichas (o escritas) mal cuando lo correcto estaba en la pizarra o se dijo en el mismo momento.
+
 Si encontráis un error en cualquier material, decidlo en clase o por el Campus Virtual.
+
+## Errores
 
 | Material | Dónde | Dice | Debe decir | Corregido |
 |---|---|---|---|---|
 | Pizarra 12/11 (grupo B2) | pág. 8, estrategia (vídeo B2 1:18:08; también dicho) | «¬∃x : p(x) ⟺ ∀x, p(x)» | ¬∃x : p(x) ⟺ ∀x, ¬p(x): «no existe ninguno que cumpla p» es «todos cumplen ¬p» | PDF corregido (pizarra corregida del 12/11, B2, pág. 8); lo dicho, en esta página (15/11) |
 | Clase 12/11, grupo B4 (dicho) | vídeo B4 1:09:20 | con B ∪ C: «85 menos 95, menos 15, menos 15 más 65… 50» | 85 − 95 = −10, y −10 + 65 = 55: \|(A ∪ B ∪ C)ᶜ\| ≤ 200 − (115 + 95 − 65) = 55. Sigue siendo una cota cierta, y peor que 25 | en esta página (15/11) |
-| Clase 10/11 (dicho) | vídeo 0:06:27 | r, «como es un resto, va a ser siempre positivo» | r ≥ 0: puede ser 0. La conclusión no cambia: no hace falta \|r\| (la pág. 4 dice «restos ≥ 0») | dicho bien más tarde, el 10/11 (vídeo 0:19:26, 0:21:56) |
 | Clase 10/11 (dicho) | vídeo 0:26:03, 0:26:32, 0:38:00, 0:40:37, 0:55:31 | el m.c.d. es «la menor combinación lineal entera, positiva o cero» («mayor o igual que 0») | la menor combinación **positiva**: el menor número natural de la forma ax + by, como dice la caja de la pág. 5. La menor ≥ 0 es siempre 0 = a · 0 + b · 0 | en esta página (15/11) |
-| Pizarra 10/11 | pág. 5 (vídeo 0:31:02) | «240 = a − 840» | 240 = b − 840: 1080 es b | corregido en clase el 10/11 (vídeo 0:31:33) |
 | Clase 10/11 (dicho) | vídeo 0:38:00, 0:40:09 | d es la menor combinación «como es el último resto distinto de cero»; «todos estos restos son múltiplos del m.c.d.… el menor de todos» | la razón es otra, y vale para **toda** combinación, no solo para los restos de la tabla: d = ax₀ + by₀ (Euclides hacia atrás); d divide a toda combinación ax + by, por ser divisor común de a y b (Prop. (ii)); y un múltiplo positivo de d es ≥ d. Luego d es el menor número natural de la forma ax + by | en esta página (15/11) |
 | Clase 10/11 (dicho) | vídeo 0:46:33 | 2, 4, 6, 8 y 10 litros se consiguen «precisamente por lo que he dicho: todas las combinaciones lineales de 6 y de 10 son múltiplos del máximo común divisor» | eso prueba que **solo** se consiguen múltiplos de 2 (por eso 1 litro no). Que se consigan **todos** necesita además que el m.c.d. sea una combinación (Bézout): 2 = 2 · 6 − 1 · 10, y entonces 2k = 2k · 6 − k · 10 | en esta página (15/11) |
 | Clase 10/11 (dicho) | vídeo 0:54:39, 0:56:04, 0:56:27 | los primos entre sí «no tienen divisores comunes» | a y b son primos entre sí si m.c.d.(a, b) = 1: su único divisor común positivo es el 1, que divide a todos (dicho bien en 0:54:00; la pág. 6 lo dice bien) | en esta página (15/11) |
-| Clase 10/11 (dicho) | vídeo 1:11:07 | compuesto: producto de dos números, «uno mayor que uno y otro menor que el propio número» | los **dos** factores: n = ab con 1 < a, b < n (la caja de la pág. 8 lo dice bien). Repartida entre los dos, la condición la cumple todo n > 1: 7 = 7 · 1 | en esta página (15/11) |
-| Clase 10/11 (dicho) | vídeo 1:11:39 | «si el 1 no fuera un número primo, mirad lo que ocurriría» | si el 1 fuera primo (como en 1:11:28 y en la pizarra, «Si lo fuera»): 15 = 3 · 5 = 3 · 5 · 1 = 3 · 5 · 1 · 1 = …, y la factorización dejaría de ser única | en esta página (15/11) |
 | Notas guiadas L10 | fuentes, al final | Cuesta, «cap. 1 y §2.2» | Cuesta, §1.2 y §2.1: el cociente y el resto están en la §2.1; la §2.2 es divisibilidad y m.c.d. (L11) | corregido en la versión del 12/11 (la del sitio) |
-| Clase 9/11 (dicho) | vídeo 0:18:28, 0:18:44 | r′ «es positivo… porque r es positivo» | r′ ≥ 0 y r ≥ 0: pueden ser 0 (la pizarra dice r ≥ 0). La Dem. no cambia: r′ = r + a(q − q′) ≥ a | dicho bien en la misma Dem. (vídeo 0:19:23, 0:19:48) |
 | Pizarra 9/11 | pág. 4, 2027 (vídeo 0:33:04) | x² + y² = 4q + r, r ∈ {0, 1, 2}; «el resto 3» | falta el porqué: r\_x + r\_y es la suma de los restos de x² y de y², así que 0 ≤ r\_x + r\_y ≤ 2 < 4, y por la unicidad del cociente y del resto es el resto de x² + y² entre 4 | PDF corregido (pizarra corregida del 9/11, pág. 4); explicado en clase el 10/11 (vídeo 0:00:30) |
-| Clase 9/11 (dicho) | vídeo 0:48:57 | Prop. (i): «si a divide a b y b divide a a, entonces a divide a c» | si a \| b y b \| c, entonces a \| c (la propiedad transitiva; la caja de la pág. 6 lo dice bien) | en esta página (15/11) |
 | Clase 9/11 (dicho) | vídeo 0:59:28, 0:59:46, 1:00:08 | un divisor «no puede ser en valor absoluto mayor que el número»; un divisor común d «es menor o igual que \|a\|… y que \|b\|» | solo si el número es ≠ 0 (Prop. (iii): a \| b y b ≠ 0 ⟹ \|a\| ≤ \|b\|); el 0 tiene por divisor a todo d. Como a y b no son los dos 0, uno de ellos, digamos b ≠ 0, da d ≤ \|b\| ≤ máx(\|a\|, \|b\|): por eso la pizarra dice máx | en esta página (15/11) |
-| Clase 9/11 (dicho) | vídeo 1:04:20 | «el máximo común divisor de −18 y de 18 también es 6» | m.c.d.(−12, 18) = 6, como dice la pizarra; m.c.d.(−18, 18) = 18 | en esta página (15/11) |
-| Clase 9/11 (dicho) | vídeo 1:08:44 | «el teorema fundamental del álgebra» | el teorema fundamental de la aritmética: todo n > 1 se escribe como producto de primos de forma única salvo el orden (el del álgebra es otro: todo polinomio complejo no constante tiene una raíz) | en esta página (15/11) |
 | Clase 6/11 (dicho) | vídeo 0:03:19 | √2027 «alrededor del 46… como mucho puedo llegar hasta el 46» | √2027 ≈ 45.02: 45² = 2025 < 2027 < 46² = 2116, así que basta llegar hasta 45 (la cota 46 es cierta, pero sobra uno) | dicho bien el 9/11 (vídeo 9/11 0:26:09) |
-| Clase 6/11 (dicho) | vídeo 0:11:15 | la buena ordenación falla «o bien porque no sea un subconjunto de ℕ₀, o bien porque no sea vacío» | … o bien porque **sea** vacío: ∅ no tiene mínimo (la hipótesis es «no vacío», como se dijo en 0:09:59) | en esta página (15/11) |
-| Clase 6/11 (dicho) | vídeo 0:17:20 | la conclusión de la inducción, «verdadero para todo n» | para todo n ≥ n₀, como dice la caja de la pág. 3: si n₀ = 5, nada se sabe de n = 0, …, 4 | en esta página (15/11) |
-| Clase 6/11 (dicho) | vídeo 0:28:30, 0:28:35 | m − 1 «es o la primera o está delante de la primera»; «eso es lo que quiero decir cuando escribo que m − 1 es mayor o igual que 0» | m − 1 es la primera ficha o está después de ella: m − 1 ≥ n₀, como dice la pizarra (pág. 4). Así m − 1 sigue siendo una de las fichas, y se puede aplicar (2) con k = m − 1 | dicho bien en clase el 6/11 (vídeo 0:31:01: «o el primero o está detrás del primero») |
 | Pizarra 6/11 | pág. 4 (vídeo 0:37:46, 0:38:48; también dicho) | «p(n) es F siempre porque p(0) F» («porque la primera ficha no se cae») | porque n ≠ n + 1; que p(0) sea F solo dice que falla la base (1), y entonces la inducción no prueba nada | corregido en clase el 9/11 (vídeo 9/11 0:08:57; pizarra del 9/11, pág. 2); PDF corregido (pizarra corregida del 6/11, pág. 4) |
-| Clase 6/11 (dicho) | vídeo 0:55:12 | b + a\|b\| «me va a dar siempre positiva» | ≥ 0: puede ser 0 (a = 1, b < 0: b + \|b\| = 0). Es lo que pide D, y la Dem. no cambia | dicho bien antes, en la misma Dem. (vídeo 0:54:22) |
 | Clase 6/11 (dicho) | vídeo 1:09:40 | con dividendo negativo, «os tenéis que pasar en valor absoluto» | se llega o se pasa: q es el mayor entero con aq ≤ b. Si a \| b no hay que pasarse: −15 = 5 · (−3) + 0, no 5 · (−4) + 5, que tendría r = a | en esta página (15/11) |
 | Pizarra 6/11 | pág. 5, amarillo (vídeo 1:10:42; también dicho en 1:09:08, 1:09:57, 1:10:08) | «el resto: lo más pequeño que queda, pero positivo»; «los restos tienen que ser positivos» | … pero ≥ 0: el resto puede ser 0 (15 = 5 · 3 + 0); el teorema dice 0 ≤ r < a | corregido en clase el 9/11 (vídeo 9/11 0:05:08; pizarra del 9/11, pág. 2); PDF corregido (pizarra corregida del 6/11, pág. 5) |
 | Clase 5/11, grupo B2 (dicho) | vídeo B2 1:18:46, 1:19:09 | «el cardinal de un conjunto es positivo», «mayor que cero» | ≥ 0: \|∅\| = 0. La conclusión no cambia: la cota −50 es cierta y no dice nada | en esta página (15/11) |
 | Clase 3/11 (dicho) | vídeo 0:13:08, 0:13:14 | en una partición, «necesito que todas sean vacías»; «el enunciado me dice que son vacías» | que **ninguna** sea vacía: los bloques de una partición son ≠ ∅ (Def. de partición, pizarra del 27/10, pág. 2), como se dice en 0:12:56 y en 0:13:18 | en esta página (15/11); el Boletín 3 lo dice bien |
 
-<!-- Una fila por error, la sesión más reciente primero; dentro de una sesión, por minuto del vídeo (regla: CLAUDE.md §9,
-paso 4). Las filas nuevas se redactan en web/erratasPendientes.md y llegan aquí solo aprobadas por Luis. -->
+## Lapsus
+
+Lo correcto estaba en la pizarra o se dijo en el mismo momento: quien copió la pizarra no tiene nada que corregir. Se
+recogen por quien estudie con el vídeo.
+
+| Material | Dónde | Dice | Debe decir | Corregido |
+|---|---|---|---|---|
+| Clase 10/11 (dicho) | vídeo 0:06:27 | r, «como es un resto, va a ser siempre positivo» | r ≥ 0: puede ser 0. La conclusión no cambia: no hace falta \|r\| (la pág. 4 dice «restos ≥ 0») | dicho bien más tarde, el 10/11 (vídeo 0:19:26, 0:21:56) |
+| Pizarra 10/11 | pág. 5 (vídeo 0:31:02) | «240 = a − 840» | 240 = b − 840: 1080 es b | corregido en clase el 10/11 (vídeo 0:31:33) |
+| Clase 10/11 (dicho) | vídeo 1:11:07 | compuesto: producto de dos números, «uno mayor que uno y otro menor que el propio número» | los **dos** factores: n = ab con 1 < a, b < n (la caja de la pág. 8 lo dice bien). Repartida entre los dos, la condición la cumple todo n > 1: 7 = 7 · 1 | en esta página (15/11) |
+| Clase 10/11 (dicho) | vídeo 1:11:39 | «si el 1 no fuera un número primo, mirad lo que ocurriría» | si el 1 fuera primo (como en 1:11:28 y en la pizarra, «Si lo fuera»): 15 = 3 · 5 = 3 · 5 · 1 = 3 · 5 · 1 · 1 = …, y la factorización dejaría de ser única | en esta página (15/11) |
+| Clase 9/11 (dicho) | vídeo 0:18:28, 0:18:44 | r′ «es positivo… porque r es positivo» | r′ ≥ 0 y r ≥ 0: pueden ser 0 (la pizarra dice r ≥ 0). La Dem. no cambia: r′ = r + a(q − q′) ≥ a | dicho bien en la misma Dem. (vídeo 0:19:23, 0:19:48) |
+| Clase 9/11 (dicho) | vídeo 0:48:57 | Prop. (i): «si a divide a b y b divide a a, entonces a divide a c» | si a \| b y b \| c, entonces a \| c (la propiedad transitiva; la caja de la pág. 6 lo dice bien) | en esta página (15/11) |
+| Clase 9/11 (dicho) | vídeo 1:04:20 | «el máximo común divisor de −18 y de 18 también es 6» | m.c.d.(−12, 18) = 6, como dice la pizarra; m.c.d.(−18, 18) = 18 | en esta página (15/11) |
+| Clase 9/11 (dicho) | vídeo 1:08:44 | «el teorema fundamental del álgebra» | el teorema fundamental de la aritmética: todo n > 1 se escribe como producto de primos de forma única salvo el orden (el del álgebra es otro: todo polinomio complejo no constante tiene una raíz) | en esta página (15/11) |
+| Clase 6/11 (dicho) | vídeo 0:11:15 | la buena ordenación falla «o bien porque no sea un subconjunto de ℕ₀, o bien porque no sea vacío» | … o bien porque **sea** vacío: ∅ no tiene mínimo (la hipótesis es «no vacío», como se dijo en 0:09:59) | en esta página (15/11) |
+| Clase 6/11 (dicho) | vídeo 0:17:20 | la conclusión de la inducción, «verdadero para todo n» | para todo n ≥ n₀, como dice la caja de la pág. 3: si n₀ = 5, nada se sabe de n = 0, …, 4 | en esta página (15/11) |
+| Clase 6/11 (dicho) | vídeo 0:28:30, 0:28:35 | m − 1 «es o la primera o está delante de la primera»; «eso es lo que quiero decir cuando escribo que m − 1 es mayor o igual que 0» | m − 1 es la primera ficha o está después de ella: m − 1 ≥ n₀, como dice la pizarra (pág. 4). Así m − 1 sigue siendo una de las fichas, y se puede aplicar (2) con k = m − 1 | dicho bien en clase el 6/11 (vídeo 0:31:01: «o el primero o está detrás del primero») |
+| Clase 6/11 (dicho) | vídeo 0:55:12 | b + a\|b\| «me va a dar siempre positiva» | ≥ 0: puede ser 0 (a = 1, b < 0: b + \|b\| = 0). Es lo que pide D, y la Dem. no cambia | dicho bien antes, en la misma Dem. (vídeo 0:54:22) |
+
+<!-- Una fila por error, en «Errores» o en «Lapsus» (regla del 15/11: lapsus si lo correcto estaba en la pizarra o se
+dijo en el mismo pasaje, salvo una definición dicha mal como definición, que va a Errores); en cada lista, la sesión más
+reciente primero y, dentro de una sesión, por minuto del vídeo (CLAUDE.md §9, paso 4). Las filas nuevas se redactan en
+web/erratasPendientes.md y llegan aquí solo aprobadas por Luis. -->
