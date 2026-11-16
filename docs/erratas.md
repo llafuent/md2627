@@ -3,7 +3,7 @@
 Errores que llegaron a vosotros (en la pizarra, dichos en clase, en un PDF o en un vídeo), con su corrección. Si un
 error está en vuestros apuntes de clase o en un archivo que descargasteis, aquí está lo que debe decir. Los PDF se
 corrigen y se sustituyen en este sitio; los vídeos no se vuelven a subir: la corrección va en su descripción, con el
-minuto, y aquí.
+minuto, y aquí. Los minutos («vídeo 1:02:55») son del vídeo de cada clase; los vídeos aún no están publicados.
 
 Aquí está todo, también lo pequeño: la referencia son la pizarra y los PDF, y quien estudie con un vídeo puede copiar
 una frase dicha mal. Por eso hay dos listas: **Errores**, lo que hay que corregir en los apuntes, y **Lapsus**, frases
