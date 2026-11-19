@@ -11,3 +11,9 @@ básicos, práctica, examen y retos) y llevan su dificultad; la primera página 
 | 2 · Lógica de predicados: predicados y cuantificadores, negación, leyes de los cuantificadores, razonamientos con predicados | 15/11/2026 | [PDF](material/u1/boletinPredicados.pdf) |
 | 3 · Conjuntos: inclusión, partes, operaciones y sus leyes, particiones y producto cartesiano | 15/11/2026 | [PDF](material/u1/boletinConjuntos.pdf) |
 | 4 · Conteo: principios de adición y de multiplicación, inclusión–exclusión y cotas | 15/11/2026 | [PDF](material/u1/boletinConteo.pdf) |
+
+## Unidad II · Teoría de números
+
+| Boletín | Versión | PDF |
+|---|---|---|
+| 5 · Divisibilidad: buena ordenación e inducción, cociente y resto, divisibilidad, máximo común divisor, Euclides y Bézout (enunciados) | 19/11/2026 | [Enunciados](material/u2/boletinDivisibilidadEnunciados.pdf) |
