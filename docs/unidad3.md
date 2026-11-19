@@ -8,3 +8,11 @@ prueba de progreso este curso.
 | Lección | Clases | Notas |
 |---|---|---|
 | L17–L18 (núcleo) · Parecerse y clasificar: relaciones de equivalencia | 17/11 y 23/11 | [PDF](material/u3/notasGuiadasL17L18.pdf) |
+
+## Pizarras
+
+Corregidas: cada errata de la pizarra está arreglada en el PDF.
+
+| Clase | Lección | Pizarra |
+|---|---|---|
+| 17/11 | L17–L18 (núcleo) · relación y sus propiedades, testigos (la pizarra empieza con L14) | [PDF](material/u2/pizarra20261117.pdf) |

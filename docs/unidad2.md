@@ -22,3 +22,4 @@ Corregidas: cada errata de la pizarra está arreglada en el PDF.
 | 9/11 | L10 (unicidad, 2027) y L11 · divisibilidad, máximo común divisor | [PDF](material/u2/pizarra20261109.pdf) |
 | 10/11 | L11 (Euclides, Bézout) y L12 · primos | [PDF](material/u2/pizarra20261110.pdf) |
 | 16/11 | L12 · menor divisor, lema de Euclides, Teorema Fundamental de la Aritmética, infinitos primos | [PDF](material/u2/pizarra20261116.pdf) |
+| 17/11 | L14 · ecuaciones diofánticas: existencia, solución general, el cajero (y el núcleo de relaciones, Unidad III) | [PDF](material/u2/pizarra20261117.pdf) |

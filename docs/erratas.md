@@ -15,6 +15,9 @@ Si encontráis un error en cualquier material, decidlo en clase o por el Campus 
 
 | Material | Dónde | Dice | Debe decir | Corregido |
 |---|---|---|---|---|
+| Pizarra 17/11 | pág. 4, Dem. de la solución general (vídeo 0:32:04; también dicho) | «(a/d)(x₁ − x₀) = (b/d)(y₁ − y₀)» | restando las dos soluciones, a(x₁ − x₀) = b(y₀ − y₁): **(a/d)(x₁ − x₀) = −(b/d)(y₁ − y₀)**. Sin el signo, y₁ = y₀ − (a/d)k daría x₁ = x₀ − (b/d)k. El enunciado del Tma. (la caja) está bien | PDF corregido (pizarra corregida del 17/11, pág. 4) |
+| Clase 17/11 (dicho) | vídeo 0:26:46–0:27:34 | «si uno fuera cero… sería a por x igual a un número, y eso tiene solución única si la tuviera… salvo en ese caso especial… tiene solución única» | como ecuación en x sola, sí: x = c/a es única. Pero la ecuación diofántica de la pág. 3 es en el par (x, y), y entonces y queda libre: hay infinitas soluciones, y la fórmula del Tma. las da todas (guía L14, Obs. «Las hipótesis justas»). Si hay solución, hay infinitas, como se dijo en el vídeo 0:24:57. a, b ≠ 0 lo pide la Dem., no el resultado | en esta página (19/11) |
+| Clase 17/11 (dicho) | vídeo 0:40:36–0:40:54 | con b = 0, «aquí es donde se me rompe todo… si uno de los dos es 0… no puedo dar estos pasos» | con b = 0, todos los pasos de la pág. 4 valen: a/d = ±1 divide a todo. La Dem. usa solo **a ≠ 0** (el lema de Euclides general, con a/d como divisor), como dice la pág. 4 | en esta página (19/11) |
 | Pizarra 16/11 | pág. 5, factorización canónica (vídeo 0:57:32) | «n = ±p₁^α₁ p₂^α₂ ⋯ p_k^α_k, p₁ < p₂ < ⋯ < p_k» | … para **n ∈ ℤ, n ≠ 0, ±1** | PDF corregido (pizarra corregida del 16/11, pág. 5) |
 | Clase 16/11 (dicho) | vídeo 1:02:55 | «no hay ningún método, ningún algoritmo para calcularlos todos» | ningún método **eficiente**: la criba de Eratóstenes (vídeo 1:17:12) da todos los primos hasta cualquier cota, sin saltarse ninguno, pero con cotas enormes, como las de los primos récord, son demasiados para listarlos | en esta página (16/11) |
 | Clase 16/11 (dicho) | vídeo 1:03:42–1:03:52 | «cada vez están más separados. La distancia entre números primos cada vez es más grande» | la distancia **media** crece (cerca de n es ≈ ln n), pero no de un primo al siguiente: 23, 29, 31 (distancias 6 y 2); 10⁹ + 7 y 10⁹ + 9 son primos los dos | en esta página (16/11) |
@@ -43,6 +46,7 @@ recogen por quien estudie con el vídeo.
 
 | Material | Dónde | Dice | Debe decir | Corregido |
 |---|---|---|---|---|
+| Clase 17/11 (dicho) | vídeo 0:40:55 | «por eso necesito que los dos sean necesariamente 0» | … **distintos de 0**, como dice la caja del Tma. (pág. 4) | la pizarra lo dice bien |
 | Clase 16/11 (dicho) | vídeo 0:50:22 | «este p sub 1 se va con este p sub j» | con q_j: p₁ = q_j, y se tachan los dos (la pág. 5 lo dice bien) | dicho bien en la misma Dem. (vídeo 0:51:27) |
 | Clase 10/11 (dicho) | vídeo 0:06:27 | r, «como es un resto, va a ser siempre positivo» | r ≥ 0: puede ser 0. La conclusión no cambia: no hace falta \|r\| (la pág. 4 dice «restos ≥ 0») | dicho bien más tarde, el 10/11 (vídeo 0:19:26, 0:21:56); corregido en clase el 16/11 (vídeo 16/11 0:02:25–0:02:37) |
 | Clase 10/11 (dicho) | vídeo 1:11:07 | compuesto: producto de dos números, «uno mayor que uno y otro menor que el propio número» | los **dos** factores: n = ab con 1 < a, b < n (la caja de la pág. 8 lo dice bien). Repartida entre los dos, la condición la cumple todo n > 1: 7 = 7 · 1 | en esta página (15/11) |
