@@ -7,4 +7,4 @@ prueba de progreso este curso.
 
 | Lección | Clases | Notas |
 |---|---|---|
-| L17–L18 (núcleo) · Parecerse y clasificar: relaciones de equivalencia | 17/11 | [PDF](material/u3/notasGuiadasL17L18.pdf) |
+| L17–L18 (núcleo) · Parecerse y clasificar: relaciones de equivalencia | 17/11 y 23/11 | [PDF](material/u3/notasGuiadasL17L18.pdf) |
