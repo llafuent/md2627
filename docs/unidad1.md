@@ -3,19 +3,19 @@
 Lógica de proposiciones y de predicados; conjuntos y operaciones; conteo (principios de adición y de multiplicación,
 inclusión–exclusión).
 
-Los boletines están en [Boletines](boletines.md). Las pizarras y los apuntes de la Unidad I se irán publicando en esta
-página.
+Los boletines están en [Boletines](boletines.md). Esta unidad no tiene notas guiadas: empezaron con la Unidad II.
 
 ## Pizarras
 
-Corregidas: cada errata de la pizarra está arreglada en el PDF. Los problemas llevan su número en los boletines.
+Corregidas: cada errata de la pizarra está arreglada en el PDF; lo que se rehízo en otra clase lleva una nota que
+remite a ella. Los problemas llevan su número en los boletines.
 
 | Clase | Contenido | Pizarra |
 |---|---|---|
-| 24/9 (grupo B2) | Lógica de proposiciones: proposición, simple y compuesta; tabla de verdad | [PDF](material/u1/pizarra20260924B2.pdf) |
-| 24/9 (grupo B4) | Lógica de proposiciones: proposición, simple y compuesta; tabla de verdad | [PDF](material/u1/pizarra20260924B4.pdf) |
-| 25/9 (grupo B2) | Operadores lógicos: conjunción, disyunción, condicional (condición necesaria y suficiente), negación; Def. de equivalencia lógica | [PDF](material/u1/pizarra20260925B2.pdf) |
-| 25/9 (grupo B4) | Operadores lógicos: conjunción, disyunción, condicional (condición necesaria y suficiente) | [PDF](material/u1/pizarra20260925B4.pdf) |
+| 24/9, práctica (grupo B2) | Lógica de proposiciones: proposición, simple y compuesta; tabla de verdad | [PDF](material/u1/pizarra20260924B2.pdf) |
+| 24/9, práctica (grupo B4) | Lógica de proposiciones: proposición, simple y compuesta; tabla de verdad | [PDF](material/u1/pizarra20260924B4.pdf) |
+| 25/9, práctica (grupo B2) | Operadores lógicos: conjunción, disyunción, condicional (condición necesaria y suficiente), negación; Def. de equivalencia lógica | [PDF](material/u1/pizarra20260925B2.pdf) |
+| 25/9, práctica (grupo B4) | Operadores lógicos: conjunción, disyunción, condicional (condición necesaria y suficiente) | [PDF](material/u1/pizarra20260925B4.pdf) |
 | 25/9 (todo el grupo: la clase del 22/9) | Principio de inducción: sumas de impares, el problema de Moser, n² + n + 41; Dem. de 1 + 3 + ⋯ + (2n − 1) = n² | [PDF](material/u1/pizarra20260925.pdf) |
 | 28/9 | Tautología, contradicción y contingencia; implicación lógica; recíproca y contrarrecíproca | [PDF](material/u1/pizarra20260928.pdf) |
 | 29/9 | Bicondicional; equivalencia lógica; equivalencias lógicas más comunes, primera parte (doble negación a De Morgan) | [PDF](material/u1/pizarra20260929.pdf) |

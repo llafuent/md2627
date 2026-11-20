@@ -11,8 +11,9 @@ prueba de progreso este curso.
 
 ## Pizarras
 
-Corregidas: cada errata de la pizarra está arreglada en el PDF.
+Corregidas: cada errata de la pizarra está arreglada en el PDF; lo que se rehízo en otra clase lleva una nota que
+remite a ella.
 
-| Clase | Lección | Pizarra |
+| Clase | Contenido | Pizarra |
 |---|---|---|
 | 17/11 | L17–L18 (núcleo) · relación y sus propiedades, testigos (la pizarra empieza con L14) | [PDF](material/u2/pizarra20261117.pdf) |

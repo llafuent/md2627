@@ -3,7 +3,7 @@
 Grado en Ingeniería Informática · Escuela Superior de Ingeniería · Universidad de Cádiz · curso 2026/27.
 Profesor: Luis Lafuente Molinero.
 
-Aquí está el material del **Grupo B**: notas guiadas de cada lección, boletines de problemas, pizarras de las clases,
+Aquí está el material del **Grupo B**: notas guiadas de cada lección (desde la Unidad II), boletines de problemas, pizarras de las clases,
 apuntes y vídeos. Los avisos oficiales siguen llegando por el Campus Virtual.
 
 ## Clases
@@ -20,7 +20,7 @@ apuntes y vídeos. Los avisos oficiales siguen llegando por el Campus Virtual.
 
 ## Cómo usar el material
 
-- **Notas guiadas** (una por lección): traen los enunciados tal como van en la pizarra, para no tener que copiarlos,
+- **Notas guiadas** (una por lección, desde la Unidad II): traen los enunciados tal como van en la pizarra, para no tener que copiarlos,
   y huecos para lo que se hace en clase: demostraciones, ejemplos y contraejemplos. Salen antes de la clase.
   Lo marcado «(apuntes)» no se hace en clase, o solo si sobra tiempo, y está completo en la guía.
 - **Boletines:** problemas con soluciones completas, para las clases de problemas y para estudiar.

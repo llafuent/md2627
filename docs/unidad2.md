@@ -3,6 +3,8 @@
 Divisibilidad y algoritmo de la división; máximo común divisor y algoritmo de Euclides; Teorema Fundamental de la
 Aritmética; ecuaciones diofánticas; congruencias.
 
+Los boletines están en [Boletines](boletines.md).
+
 ## Notas guiadas
 
 | Lección | Clases | Notas |
@@ -15,9 +17,10 @@ Aritmética; ecuaciones diofánticas; congruencias.
 
 ## Pizarras
 
-Corregidas: cada errata de la pizarra está arreglada en el PDF.
+Corregidas: cada errata de la pizarra está arreglada en el PDF; lo que se rehízo en otra clase lleva una nota que
+remite a ella.
 
-| Clase | Lección | Pizarra |
+| Clase | Contenido | Pizarra |
 |---|---|---|
 | 6/11 | L10 · buena ordenación, inducción, cociente y resto | [PDF](material/u2/pizarra20261106.pdf) |
 | 9/11 | L10 (unicidad, 2027) y L11 · divisibilidad, máximo común divisor | [PDF](material/u2/pizarra20261109.pdf) |
