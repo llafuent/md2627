@@ -27,3 +27,5 @@ remite a ella.
 | 10/11 | L11 (Euclides, Bézout) y L12 · primos | [PDF](material/u2/pizarra20261110.pdf) |
 | 16/11 | L12 · menor divisor, lema de Euclides, Teorema Fundamental de la Aritmética, infinitos primos | [PDF](material/u2/pizarra20261116.pdf) |
 | 17/11 | L14 · ecuaciones diofánticas: existencia, solución general, el cajero (y el núcleo de relaciones, Unidad III) | [PDF](material/u2/pizarra20261117.pdf) |
+| 19/11, práctica (grupo B2) | L12 · mínimo común múltiplo, divisores y exponentes, mcd y mcm con exponentes; L13 · número y suma de divisores, números perfectos | [PDF](material/u2/pizarra20261119B2.pdf) |
+| 19/11, práctica (grupo B4) | L12 · mínimo común múltiplo, divisores y exponentes, mcd y mcm con exponentes; L13 · número de divisores | [PDF](material/u2/pizarra20261119B4.pdf) |
