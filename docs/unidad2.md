@@ -14,6 +14,7 @@ Los boletines están en [Boletines](boletines.md).
 | L12 · Los ladrillos: primos, factorización única y mínimo común múltiplo | 10/11, 16/11 y 19/11 | [PDF](material/u2/notasGuiadasL12.pdf) |
 | L13 · Cien taquillas: número y suma de divisores | 19/11 | [PDF](material/u2/notasGuiadasL13.pdf) |
 | L14 · Lo que el cajero no puede darte: ecuaciones diofánticas lineales | 17/11 | [PDF](material/u2/notasGuiadasL14.pdf) |
+| L15 · La letra del DNI: congruencias y ℤₘ | 23/11 | [PDF](material/u2/notasGuiadasL15.pdf) |
 
 ## Pizarras
 
