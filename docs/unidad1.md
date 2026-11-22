@@ -5,6 +5,16 @@ inclusión–exclusión).
 
 Los boletines están en [Boletines](boletines.md). Esta unidad no tiene notas guiadas: empezaron con la Unidad II.
 
+## Apuntes
+
+La Parte I de los apuntes del curso: el texto de cada capítulo, con sus definiciones, teoremas, demostraciones,
+ejemplos y figuras, y detrás los ejercicios del boletín del capítulo; al final, el repaso de la prueba y las soluciones.
+Los ejercicios de cada capítulo son los del boletín del mismo número, con el mismo número.
+
+| Apuntes | Capítulos | PDF |
+|---|---|---|
+| Parte I · Lógica, conjuntos y conteo (versión 1.1, del 22/11; **en revisión**: se actualizará durante la semana) | 1 Lógica proposicional · 2 Lógica de predicados · 3 Conjuntos · 4 Conteo | [PDF](material/apuntes2627.pdf) |
+
 ## Pizarras
 
 Corregidas: cada errata de la pizarra está arreglada en el PDF; lo que se rehízo en otra clase lleva una nota que

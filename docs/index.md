@@ -23,6 +23,9 @@ apuntes y vídeos. Los avisos oficiales siguen llegando por el Campus Virtual.
 - **Notas guiadas** (una por lección, desde la Unidad II): traen los enunciados tal como van en la pizarra, para no tener que copiarlos,
   y huecos para lo que se hace en clase: demostraciones, ejemplos y contraejemplos. Salen antes de la clase.
   Lo marcado «(apuntes)» no se hace en clase, o solo si sobra tiempo, y está completo en la guía.
+- **Apuntes:** el curso escrito, capítulo a capítulo, con los ejercicios de cada boletín y sus soluciones. Ya está la
+  Parte I (lógica, conjuntos y conteo), en [Unidad I](unidad1.md#apuntes); las demás partes se añaden al terminar cada
+  unidad.
 - **Boletines:** problemas con soluciones completas, para las clases de problemas y para estudiar.
 - **Pizarras:** el PDF de la pizarra de cada sesión, con las erratas corregidas.
 - **Erratas:** si encuentras un error en cualquier material, dilo en clase o por el Campus Virtual; queda anotado en
