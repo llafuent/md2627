@@ -19,3 +19,4 @@ básicos, práctica, examen y retos) y llevan su dificultad; la primera página 
 |---|---|---|
 | 5 · Divisibilidad: buena ordenación e inducción, cociente y resto, divisibilidad, máximo común divisor, Euclides y Bézout (enunciados) | 19/11/2026 | [Enunciados](material/u2/boletinDivisibilidadEnunciados.pdf) |
 | 6 · Primos y divisores: números primos, lema de Euclides, Teorema Fundamental de la Aritmética, mínimo común múltiplo, número y suma de los divisores (enunciados) | 22/11/2026 | [Enunciados](material/u2/boletinPrimosEnunciados.pdf) |
+| 7 · Ecuaciones diofánticas: la ecuación ax + by = c, cuándo tiene soluciones enteras, cómo son todas y cuáles sirven (enunciados) | 22/11/2026 | [Enunciados](material/u2/boletinDiofanticasEnunciados.pdf) |
