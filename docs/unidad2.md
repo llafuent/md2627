@@ -12,9 +12,9 @@ Los boletines están en [Boletines](boletines.md).
 | L10 · El primer elemento: buena ordenación, inducción, cociente y resto | 6/11 y 9/11 | [PDF](material/u2/notasGuiadasL10.pdf) |
 | L11 · Cuando el resto es 0: divisibilidad, máximo común divisor, Euclides y Bézout | 9/11 y 10/11 | [PDF](material/u2/notasGuiadasL11.pdf) |
 | L12 · Los ladrillos: primos, factorización única y mínimo común múltiplo | 10/11, 16/11 y 19/11 | [PDF](material/u2/notasGuiadasL12.pdf) |
-| L13 · Cien taquillas: número y suma de divisores | 19/11 | [PDF](material/u2/notasGuiadasL13.pdf) |
+| L13 · Cien taquillas: número y suma de divisores | 19/11 y 26/11 | [PDF](material/u2/notasGuiadasL13.pdf) |
 | L14 · Lo que el cajero no puede darte: ecuaciones diofánticas lineales | 17/11 | [PDF](material/u2/notasGuiadasL14.pdf) |
-| L15 · La letra del DNI: congruencias y ℤₘ | 23/11 | [PDF](material/u2/notasGuiadasL15.pdf) |
+| L15 · La letra del DNI: congruencias y ℤₘ | 23/11 y 24/11 | [PDF](material/u2/notasGuiadasL15.pdf) |
 | L16 · El adivino y la baraja: teorema chino del resto, Euler, Fermat y Wilson | 24/11 y 30/11 | [PDF](material/u2/notasGuiadasL16.pdf) |
 
 ## Pizarras
