@@ -31,3 +31,4 @@ remite a ella.
 | 17/11 | L14 · ecuaciones diofánticas: existencia, solución general, el cajero (y el núcleo de relaciones, Unidad III) | [PDF](material/u2/pizarra20261117.pdf) |
 | 19/11, práctica (grupo B2) | L12 · mínimo común múltiplo, divisores y exponentes, mcd y mcm con exponentes; L13 · número y suma de divisores, números perfectos | [PDF](material/u2/pizarra20261119B2.pdf) |
 | 19/11, práctica (grupo B4) | L12 · mínimo común múltiplo, divisores y exponentes, mcd y mcm con exponentes; L13 · número de divisores | [PDF](material/u2/pizarra20261119B4.pdf) |
+| 23/11 | L15 · la letra del DNI: congruencia módulo m, ℤₘ (la pizarra empieza con una Obs. de L14 y el núcleo de relaciones, Unidad III) | [PDF](material/u2/pizarra20261123.pdf) |

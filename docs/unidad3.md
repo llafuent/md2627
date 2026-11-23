@@ -17,3 +17,4 @@ remite a ella.
 | Clase | Contenido | Pizarra |
 |---|---|---|
 | 17/11 | L17–L18 (núcleo) · relación y sus propiedades, testigos (la pizarra empieza con L14) | [PDF](material/u2/pizarra20261117.pdf) |
+| 23/11 | L17–L18 (núcleo) · relación de equivalencia, clases, conjunto cociente, partición (la pizarra sigue con L15) | [PDF](material/u2/pizarra20261123.pdf) |
