@@ -6,8 +6,10 @@ corrigen y se sustituyen en este sitio; los vídeos no se vuelven a subir: la co
 minuto, y aquí. Los minutos («vídeo 1:02:55») son del vídeo de cada clase; los vídeos aún no están publicados.
 
 Aquí está todo, también lo pequeño: la referencia son la pizarra y los PDF, y quien estudie con un vídeo puede copiar
-una frase dicha mal. Por eso hay dos listas: **Errores**, lo que hay que corregir en los apuntes, y **Lapsus**, frases
-dichas (o escritas) mal cuando lo correcto estaba en la pizarra o se dijo en el mismo momento.
+una frase dicha mal. Por eso hay tres listas: **Errores**, lo que hay que corregir en los apuntes; **Lapsus**, frases
+dichas (o escritas) mal cuando lo correcto estaba en la pizarra o se dijo en el mismo momento; y **Atajos al hablar**:
+lo dicho se entiende y las matemáticas están bien, pero escrito así sería incorrecto (los matemáticos los llaman
+«abusos de lenguaje»); ahí está cómo se escribe.
 
 Si encontráis un error en cualquier material, decidlo en clase o por el Campus Virtual.
 
@@ -20,8 +22,8 @@ Si encontráis un error en cualquier material, decidlo en clase o por el Campus 
 | Clase 19/11, grupos B2 y B4 (dicho) | vídeo B2 0:51:52–0:52:02; B4 0:49:31 | «no existe algoritmo eficiente para calcular la factorización en primos… o sea, no existe ningún algoritmo» (B2); «no hay un algoritmo eficiente para encontrar la factorización» (B4) | algoritmos para factorizar hay (probar los divisores hasta √n); lo que **no se conoce** es ninguno eficiente para números de cientos de cifras, y no se sabe si existe. RSA cuenta con eso: «si hubiera un algoritmo eficiente, la encriptación RSA se rompería» (B4 0:49:59) es correcto | en esta página (21/11) |
 | Clase 19/11, grupo B4 (dicho) | vídeo 0:07:31–0:07:41 | «aunque la Real Academia diga que los decimales se separan con comas, también admite la separación con puntos» | la *Ortografía* de la RAE (2010) admite la coma y el punto, y **recomienda el punto** | en esta página (21/11) |
 | Pizarra 17/11 | pág. 4, Dem. de la solución general (vídeo 0:32:04; también dicho) | «(a/d)(x₁ − x₀) = (b/d)(y₁ − y₀)» | restando las dos soluciones, a(x₁ − x₀) = b(y₀ − y₁): **(a/d)(x₁ − x₀) = −(b/d)(y₁ − y₀)**. Sin el signo, y₁ = y₀ − (a/d)k daría x₁ = x₀ − (b/d)k. El enunciado del Tma. (la caja) está bien | PDF corregido (pizarra corregida del 17/11, pág. 4) |
-| Clase 17/11 (dicho) | vídeo 0:26:46–0:27:34 | «si uno fuera cero… sería a por x igual a un número, y eso tiene solución única si la tuviera… salvo en ese caso especial… tiene solución única» | como ecuación en x sola, sí: x = c/a es única. Pero la ecuación diofántica de la pág. 3 es en el par (x, y), y entonces y queda libre: hay infinitas soluciones, y la fórmula del Tma. las da todas (guía L14, Obs. «Las hipótesis justas»). Si hay solución, hay infinitas, como se dijo en el vídeo 0:24:57. Basta que a y b no sean los dos 0, como en la existencia: la guía L14 y la pizarra corregida lo dicen así desde el 19/11. La Dem. de la pág. 4 usa a ≠ 0, y si a = 0 se intercambian x e y | en esta página (19/11) |
-| Clase 17/11 (dicho) | vídeo 0:40:36–0:40:54 | con b = 0, «aquí es donde se me rompe todo… si uno de los dos es 0… no puedo dar estos pasos» | con b = 0, todos los pasos de la pág. 4 valen: a/d = ±1 divide a todo. La Dem. usa solo **a ≠ 0** (el lema de Euclides general, con a/d como divisor), como dice la pág. 4 | en esta página (19/11) |
+| Clase 17/11 (dicho) | vídeo 0:26:46–0:27:34 | «si uno fuera cero… sería a por x igual a un número, y eso tiene solución única si la tuviera… salvo en ese caso especial… tiene solución única» | como ecuación en x sola, sí: x = c/a es única. Pero la ecuación diofántica de la pág. 3 es en el par (x, y), y entonces y queda libre: hay infinitas soluciones, y la fórmula del Tma. las da todas (guía L14, Obs. «Las hipótesis justas»). Si hay solución, hay infinitas, como se dijo en el vídeo 0:24:57. Basta que a y b no sean los dos 0, como en la existencia: la guía L14 y la pizarra corregida lo dicen así desde el 19/11. La Dem. de la pág. 4 usa a ≠ 0, y si a = 0 se intercambian x e y | en esta página (19/11); corregido en clase el 23/11 (vídeo 23/11 0:02:57–0:05:56; pizarra del 23/11, pág. 2: 0x + 5y = 10, infinitas soluciones) |
+| Clase 17/11 (dicho) | vídeo 0:40:36–0:40:54 | con b = 0, «aquí es donde se me rompe todo… si uno de los dos es 0… no puedo dar estos pasos» | con b = 0, todos los pasos de la pág. 4 valen: a/d = ±1 divide a todo. La Dem. usa solo **a ≠ 0** (el lema de Euclides general, con a/d como divisor), como dice la pág. 4 | en esta página (19/11); corregido en clase el 23/11 (vídeo 23/11 0:01:49–0:02:55: «la demostración vale con uno de los dos solos distintos de cero»; la Dem. usó a ≠ 0, y si a = 0 se cambian x e y; pizarra del 23/11, pág. 2) |
 | Pizarra 16/11 | pág. 5, factorización canónica (vídeo 0:57:32) | «n = ±p₁^α₁ p₂^α₂ ⋯ p_k^α_k, p₁ < p₂ < ⋯ < p_k» | … para **n ∈ ℤ, n ≠ 0, ±1** | PDF corregido (pizarra corregida del 16/11, pág. 5) |
 | Clase 16/11 (dicho) | vídeo 1:02:55 | «no hay ningún método, ningún algoritmo para calcularlos todos» | ningún método **eficiente**: la criba de Eratóstenes (vídeo 1:17:12) da todos los primos hasta cualquier cota, sin saltarse ninguno, pero con cotas enormes, como las de los primos récord, son demasiados para listarlos | en esta página (16/11) |
 | Clase 16/11 (dicho) | vídeo 1:03:42–1:03:52 | «cada vez están más separados. La distancia entre números primos cada vez es más grande» | la distancia **media** crece (cerca de n es ≈ ln n), pero no de un primo al siguiente: 23, 29, 31 (distancias 6 y 2); 10⁹ + 7 y 10⁹ + 9 son primos los dos | en esta página (16/11) |
@@ -63,11 +65,18 @@ recogen por quien estudie con el vídeo.
 
 | Material | Dónde | Dice | Debe decir | Corregido |
 |---|---|---|---|---|
+| Clase 23/11 (dicho) | vídeo 0:14:02 | la relación «mismo resto entre 3» «es una clase de equivalencia» | es una **relación** de equivalencia; sus clases son las tres filas [0], [1], [2] (pág. 5) | la pizarra lo dice bien |
+| Clase 23/11 (dicho) | vídeo 0:22:50 | «cada clase es un conjunto finito» | cada clase de «mismo resto entre 3» es **infinita**: ℤ/R tiene tres elementos, y cada uno es un conjunto infinito (pág. 5) | dicho bien en el mismo pasaje y escrito en la pizarra (vídeo 0:22:54; pág. 5) |
+| Clase 23/11 (dicho) | vídeo 0:35:51 | «resto 0, resto 1, resto 3, eso es una partición de ℤ» | resto 0, 1 y **2** (las tres filas de la portada del núcleo, pág. 3) | la pizarra lo dice bien |
+| Clase 23/11 (dicho) | vídeo 0:41:36 | «la letra del DNI es un código de corrección de errores» | de **detección** de errores: la letra avisa de que una cifra está mal, pero no dice cuál ni la corrige | dicho bien en el mismo pasaje («es para detectar que no os habéis equivocado», vídeo 0:41:40) |
+| Clase 23/11 (dicho) | vídeo 0:42:57 | 12 345 678: «resto dividido entre 3, 14» | el resto entre **23** es 14 (letra Z), como dice la pág. 7 | la pizarra lo dice bien |
+| Clase 23/11 (dicho) | vídeo 0:49:43 | las clases de restos: «la del 0, la del 1 y la del 3, que sería el ejemplo con m igual a 3» | la del 0, la del 1 y la del **2**: ℤ₃ = {[0], [1], [2]} (pág. 8) | la pizarra lo dice bien |
+| Clase 23/11 (dicho) | vídeo 0:53:03 | «ser congruente módulo m es clase de equivalencia» | es una **relación** de equivalencia: reflexiva, simétrica y transitiva (pág. 8); sus clases forman ℤₘ | la pizarra lo dice bien |
 | Clase 19/11, grupos B2 y B4 (dicho) | vídeo B2 1:08:11; B4 0:36:07 | «12 es 2 al cubo por 3» | 12 = **2²** · 3, como dice la pizarra (pág. 4); 2³ · 3 = 24 | la pizarra lo dice bien |
 | Clase 19/11, grupo B2 (dicho) | vídeo 0:55:18 | «2 elevado a 7 por 3 elevado al cubo por 1, me da 17 280» | 2⁷ · 3³ · **5** = 17 280, como la tabla de la pág. 5 | la pizarra lo dice bien |
 | Clase 19/11, grupo B4 (dicho) | vídeo 1:13:56 | «¿cuántas [elecciones] para γ₃? 4, 0 y 1» | **2**: el 0 y el 1; dicho bien en 1:14:17, y en la pizarra 4 · 4 · 2 (pág. 7) | la pizarra lo dice bien |
 | Clase 19/11, grupo B4 (dicho) | vídeo 1:16:28 | «y así hasta α_k más 0» | α_k **+ 1**, como dice la pizarra (pág. 7) | la pizarra lo dice bien |
-| Clase 17/11 (dicho) | vídeo 0:40:55 | «por eso necesito que los dos sean necesariamente 0» | … **distintos de 0**, como dice la caja del Tma. (pág. 4) | la pizarra lo dice bien |
+| Clase 17/11 (dicho) | vídeo 0:40:55 | «por eso necesito que los dos sean necesariamente 0» | … que **no sean los dos 0**: es la hipótesis de la caja desde el 19/11 (esta fila decía «distintos de 0, como dice la caja», la caja del 17/11) | la pizarra corregida lo dice bien; dicho en clase el 23/11 (vídeo 23/11 0:00:25–0:01:42; pizarra del 23/11, pág. 2) |
 | Clase 16/11 (dicho) | vídeo 0:50:22 | «este p sub 1 se va con este p sub j» | con q_j: p₁ = q_j, y se tachan los dos (la pág. 5 lo dice bien) | dicho bien en la misma Dem. (vídeo 0:51:27) |
 | Clase 10/11 (dicho) | vídeo 0:06:27 | r, «como es un resto, va a ser siempre positivo» | r ≥ 0: puede ser 0. La conclusión no cambia: no hace falta \|r\| (la pág. 4 dice «restos ≥ 0») | dicho bien más tarde, el 10/11 (vídeo 0:19:26, 0:21:56); corregido en clase el 16/11 (vídeo 16/11 0:02:25–0:02:37) |
 | Clase 10/11 (dicho) | vídeo 1:11:07 | compuesto: producto de dos números, «uno mayor que uno y otro menor que el propio número» | los **dos** factores: n = ab con 1 < a, b < n (la caja de la pág. 8 lo dice bien). Repartida entre los dos, la condición la cumple todo n > 1: 7 = 7 · 1 | en esta página (15/11) |
@@ -102,7 +111,17 @@ recogen por quien estudie con el vídeo.
 | Clase 6/10 (dicho) | vídeo 0:17:42 | «los razonamientos al fin y al cabo son implicaciones lógicas» | un razonamiento es un condicional (P₁ ∧ ⋯ ∧ Pₙ) → Q; es **válido** si es una implicación lógica. Las falacias son razonamientos y no lo son | la Def. de la pizarra lo dice bien |
 | Clases 28/9 y 6/10 (dicho) | vídeo 28/9 1:12:04; vídeo 6/10 0:52:36 | «si la hipótesis es falsa, el condicional es falso» (28/9); «cuando la hipótesis del condicional sea falsa, el condicional va a ser falso» (6/10) | **verdadero** | 28/9: hecho bien en el mismo momento (vídeo 1:11:57: «pongo verdadero»), y la tabla de la pág. 3 lo dice bien; 6/10: dicho bien en la frase siguiente (vídeo 0:52:44), y la tabla de la pág. 4 lo dice bien |
 
-<!-- Una fila por error, en «Errores» o en «Lapsus» (regla del 15/11: lapsus si lo correcto estaba en la pizarra o se
+## Atajos al hablar
+
+Lo dicho se entiende y las matemáticas están bien, pero escrito así sería incorrecto: aquí está cómo se escribe.
+
+| Material | Dónde | Dice | Cómo se escribe | En la pizarra |
+|---|---|---|---|---|
+| Clase 23/11 (dicho) | vídeo 0:25:28 | «si dos clases de equivalencia tienen intersección no nula, entonces son la misma clase» | intersección **no vacía**: [a] ∩ [b] ≠ ∅ (caja de la pág. 6). «Nula» se dice de un número | la pizarra lo dice bien |
+| Clase 23/11 (dicho) | vídeo 0:37:17, 0:37:33 | «los que están a distancia 1 del 0, que serían −1, 0 y 1»; «a distancia 1 del 1: el 0, el 1 y el 2» | a distancia **≤ 1**: [0] = {x ∈ ℤ : \|x − 0\| ≤ 1} = {−1, 0, 1}; el 0 está a distancia 0 de sí mismo (pág. 6) | la pizarra lo dice bien; las listas dichas son correctas |
+| Clase 23/11 (dicho) | vídeo 0:51:59 | «la intersección era distinta de cero, las clases eran iguales» | intersección **no vacía**: si [a] ∩ [b] ≠ ∅, entonces [a] = [b] (caja de la pág. 6). Se escribe ≠ ∅, nunca ≠ 0: 0 es un número; ∅, un conjunto | la pizarra lo dice bien |
+
+<!-- Una fila por error, en «Errores», «Lapsus» o «Atajos al hablar» (atajos: regla del 23/11, courseProject §6; regla del 15/11: lapsus si lo correcto estaba en la pizarra o se
 dijo en el mismo pasaje, salvo una definición dicha mal como definición, que va a Errores); en cada lista, la sesión más
 reciente primero y, dentro de una sesión, por minuto del vídeo (CLAUDE.md §9, paso 4). Las filas nuevas se redactan en
 web/erratasPendientes.md y llegan aquí solo aprobadas por Luis. -->
