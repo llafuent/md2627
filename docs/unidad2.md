@@ -32,3 +32,4 @@ remite a ella.
 | 19/11, práctica (grupo B2) | L12 · mínimo común múltiplo, divisores y exponentes, mcd y mcm con exponentes; L13 · número y suma de divisores, números perfectos | [PDF](material/u2/pizarra20261119B2.pdf) |
 | 19/11, práctica (grupo B4) | L12 · mínimo común múltiplo, divisores y exponentes, mcd y mcm con exponentes; L13 · número de divisores | [PDF](material/u2/pizarra20261119B4.pdf) |
 | 23/11 | L15 · la letra del DNI: congruencia módulo m, ℤₘ (la pizarra empieza con una Obs. de L14 y el núcleo de relaciones, Unidad III) | [PDF](material/u2/pizarra20261123.pdf) |
+| 24/11 | L15 · sumar, multiplicar y dividir módulo m, la letra del DNI resuelta, inverso, ecuaciones en congruencias; L16 · el adivino de Sun Zi, teorema chino del resto (unicidad) | [PDF](material/u2/pizarra20261124.pdf) |
