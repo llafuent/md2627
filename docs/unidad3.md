@@ -8,6 +8,7 @@ prueba de progreso este curso.
 | Lección | Clases | Notas |
 |---|---|---|
 | L17–L18 (núcleo) · Parecerse y clasificar: relaciones de equivalencia | 17/11 y 23/11 | [PDF](material/u3/notasGuiadasL17L18.pdf) |
+| L19–L20 (núcleo) · Ordenar y asignar: órdenes y funciones | 1/12 | [PDF](material/u3/notasGuiadasL19L20.pdf) |
 
 ## Pizarras
 
