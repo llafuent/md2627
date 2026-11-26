@@ -13,7 +13,7 @@ Los ejercicios de cada capítulo son los del boletín del mismo número, con el 
 
 | Apuntes | Capítulos | PDF |
 |---|---|---|
-| Parte I · Lógica, conjuntos y conteo (versión 1.1, del 22/11; **en revisión**: se actualizará durante la semana) | 1 Lógica proposicional · 2 Lógica de predicados · 3 Conjuntos · 4 Conteo | [PDF](material/apuntes2627.pdf) |
+| Parte I · Lógica, conjuntos y conteo (versión 1.2, del 26/11: revisada; respecto a la 1.1 solo cambia la declaración sobre la IA) | 1 Lógica proposicional · 2 Lógica de predicados · 3 Conjuntos · 4 Conteo | [PDF](material/apuntes2627.pdf) |
 
 ## Pizarras
 
